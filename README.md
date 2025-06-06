@@ -2,7 +2,8 @@
 <h3 align="center">Backend Developer | Web Enthusiast | B.Tech CSE'26</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+by+Building+💻;Backend+Focused+Developer+⚙️;Love+for+Clean+Code+🧠;Open+Source+Contributor+🌐&center=true&width=440&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Web+Enthusiast;Building+Clean+Backends+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt=\"Typing SVG\" />
+
 </p>
 
 ---
