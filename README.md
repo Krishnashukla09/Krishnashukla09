@@ -1,49 +1,42 @@
-<h1 align="center">Hi 👋, I'm Krishna Shukla</h1>
-<h3 align="center">Backend Developer | Web Enthusiast | B.Tech CSE'26</h3>
+<h1 align="center">Hey 👋, I'm Krishna Shukla</h1>
+<h3 align="center">Backend Developer | Web Enthusiast | Open Source Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Web+Enthusiast;Building+Clean+Backends+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt=\"Typing SVG\" />
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Debug.+Repeat.;Backend+Focused+Developer+⚙️;HealthTech+Project+Owner+🩺;Always+Learning+🧠&center=true&width=440&height=45" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🎓 I'm pursuing **B.Tech in Computer Science (2022–26)**
-- 💻 I love building **backend systems**, solving problems, and writing clean, efficient code.
-- 🔨 Recently completed an internship at **CodeAlpha**, building projects like:
-  - [URL Shortener](https://github.com/Krishnashukla09/url-shortener)
-  - [Event Registration System](https://github.com/Krishnashukla09/Event_Registration)
-  - [Restaurant Management System](https://github.com/Krishnashukla09/Restaurant-Management)
-- 🌱 Currently learning **APIs, Django, and MySQL optimization**
-- ⚡ Fun fact: I debug more than I code... but that's the developer life 😎
+### 👨‍💻 About Me
+
+- 🎓 B.Tech CSE'26 | Backend & System Design Enthusiast  
+- 🛠️ Skilled in Python, Flask, Django, MySQL, and REST APIs  
+- 🚀 Built real-world projects like:
+  - 🔗 [URL Shortener](https://github.com/Krishnashukla09/url-shortener)
+  - 🎟️ [Event Registration System](https://github.com/Krishnashukla09/Event_Registration)
+  - 🍽️ [Restaurant Management System](https://github.com/Krishnashukla09/Restaurant-Management)
+  - 🏥 [HealthConnect](https://github.com/Krishnashukla09/HealthConnect) *(Personal Health Companion Project)*
+- 🌱 Currently learning: **Django**, **API Security**, and **Cloud Deployment**
+- ⚡ Fun fact: _"I debug more than I sleep 😴"_
 
 ---
 
-### 🛠️ Tech Stack:
+### 📌 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🔗 [URL Shortener](https://github.com/Krishnashukla09/url-shortener) | Flask, MySQL | Shortens long URLs and tracks visits |
+| 🎟️ [Event Registration System](https://github.com/Krishnashukla09/Event_Registration) | Flask, SQL | Collects and manages event participants |
+| 🍽️ [Restaurant Management](https://github.com/Krishnashukla09/Restaurant-Management) | Flask, MySQL | Manage menu, orders, and customers |
+| 🏥 [HealthConnect](https://github.com/Krishnashukla09/HealthConnect) | Flask, Bootstrap | Virtual doctor, health tracker & emergency hub |
+
+---
+
+### 🧰 Tech Stack
+
 ```bash
-💻 Languages:       Python | C | JavaScript | SQL
-🛠️ Frameworks:      Flask | Django (learning)
-🗄️ Databases:       MySQL | SQLite
-🌐 Web:             HTML | CSS | Bootstrap | JS
-🧰 Tools:           Git | GitHub | VS Code | Postman
-```
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnashukla09&show_icons=true&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnashukla09&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 Contact Me:
-- 🔗 [LinkedIn](www.linkedin.com/in/krishna-shukla-7b48b9257)
-- 📬 Email: krishnashukla.0904@gmail.com
-
-
----
-
-_Thanks for visiting! Don’t forget to ⭐ my repositories if you find them useful._
+💻 Languages:     Python | C | JavaScript | SQL
+🧠 Frameworks:    Flask | Django (learning)
+🗄️ Database:      MySQL | SQLite
+🌐 Frontend:      HTML | CSS | Bootstrap
+🔧 Tools:         Git | GitHub | Postman | VS Code
