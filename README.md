@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Web Enthusiast | Open Source Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Debug.+Repeat.;Backend+Focused+Developer+⚙️;HealthTech+Project+Owner+🩺;Always+Learning+🧠&center=true&width=440&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=440&height=45&lines=Code.+Debug.+Repeat.;Backend+Focused+Developer+⚙️;Always+Learning+🧠" />
 </p>
 
 ---
