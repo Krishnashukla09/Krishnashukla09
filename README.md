@@ -32,6 +32,14 @@
 
 ---
 
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnashukla09&show_icons=true&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnashukla09&theme=tokyonight"/>
+</p>
+
+---
 ### 🧰 Tech Stack
 
 ```bash
